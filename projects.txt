@@ -1,0 +1,1 @@
+[{"word":"Uydu Projeleri"},{"word":"Altsistem Projeleri"},{"word":"Veri ve Görüntü İşleme Projeleri"},{"word":"Haberleşme Projeleri"},{"word":"Bilimsel Araştırma Projeleri"}]
