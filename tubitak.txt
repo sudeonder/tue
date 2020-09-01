@@ -1,0 +1,1 @@
+[{"word":"TUBİTAK MAM"},{"word":"TUBİTAK BİLGEM"},{"word":"TUBİTAK SAGE"},{"word":"TUBİTAK UZAY"},{"word":"TUBİTAK UME"},{"word":"TUBİTAK TUSSİDE"},{"word":"TUBİTAK RUTE"},{"word":"TUBİTAK TBAE"},{"word":"TUBİTAK ULAKBİM"},{"word":"TUBİTAK BUTAL"},{"word":"TUBİTAK TUG"}]
