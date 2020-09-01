@@ -1,0 +1,2 @@
+[{"word":"EOPOWER"},{"word":"GAMALINK"},{"word":"THOR"},{"word":"COGSENSE"},{"word":"P2-ROTECT"},{"word":"SEOCA"}]
+
