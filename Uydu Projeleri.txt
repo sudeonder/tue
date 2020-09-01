@@ -1,0 +1,2 @@
+[{"word":"İMECE"},{"word":"TÜRKSAT-6A"},{"word":"GÖKTÜRK-2"},{"word":"RASAT"},{"word":"BİLSAT"}]
+
